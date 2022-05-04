@@ -1,4 +1,6 @@
 # hello-world
-my first repository,
+My first repository,
 
-Figuring out how to create content, one step at a time!
+Figuring out how to create content,
+
+One step at a time!
